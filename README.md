@@ -7,7 +7,7 @@ The primary goal is to develop a machine learning model that predicts heart dise
 
 Table of Contents:
 1. Documentation: <br>
-    [BRFSS Overview](https://www.cdc.gov/brfss/annual_data/2022/pdf/Overview_2022-508.pdf)
+    [BRFSS Overview](https://www.cdc.gov/brfss/annual_data/2022/pdf/Overview_2022-508.pdf) <br>
     [Data Dictionary](https://github.com/dhuang814/HeartDiseasePredictor/tree/main/references)
 2. Preperations: <br>
     [Beatiful Soup](https://github.com/dhuang814/HeartDiseasePredictor/blob/main/notebooks/BeautifulSoup.ipynb) was used to parse data dictionary
